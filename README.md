@@ -1,5 +1,5 @@
 # Buffer-Overflow
 buffer overflow script made in python
 
-# requierments:
+# requirements:
 - ipaddress
